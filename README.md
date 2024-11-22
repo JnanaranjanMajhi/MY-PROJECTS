@@ -43,3 +43,5 @@ An interactive **To-Do List Application** built with Python and Tkinter to help 
    python todo_app.py
 4. Start managing your tasks with an intuitive GUI!
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
