@@ -24,18 +24,6 @@ An interactive **To-Do List Application** built with Python and Tkinter to help 
 
 ---
 
-## Screenshots 📸
-
-**Main Interface**  
-![Main Interface](assets/main_interface.png)  
-
-**Add Task**  
-![Add Task](assets/add_task.png)  
-
-**Edit Task**  
-![Edit Task](assets/edit_task.png)  
-
----
 
 ## Installation and Usage 💻
 
@@ -47,3 +35,11 @@ An interactive **To-Do List Application** built with Python and Tkinter to help 
    ```bash
    git clone https://github.com/<your-username>/todo-list-app.git
    cd todo-list-app
+2. Install the required dependencies (if any):
+   ```bash
+   pip install -r requirements.txt
+3. Run the application:
+   ```bash
+   python todo_app.py
+4. Start managing your tasks with an intuitive GUI!
+
